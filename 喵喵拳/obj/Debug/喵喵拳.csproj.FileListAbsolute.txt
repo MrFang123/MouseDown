@@ -1,0 +1,12 @@
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\bin\Debug\喵喵拳.exe.config
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\bin\Debug\喵喵拳.exe
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\bin\Debug\喵喵拳.pdb
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.csprojResolveAssemblyReference.cache
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.Form1.resources
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.Properties.Resources.resources
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.csproj.GenerateResource.Cache
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.exe
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.pdb
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\Interop.MediaPlayer.dll
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\Interop.WMPLib.dll
+h:\users\mrfang\documents\visual studio 2015\Projects\喵喵拳\喵喵拳\obj\Debug\喵喵拳.csproj.ResolveComReference.cache
